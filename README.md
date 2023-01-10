@@ -43,7 +43,7 @@
 
 <p>
 
-> - ### <a href='https://telzir-telefonia.herokuapp.com/'>CLIQUE AQUI</a> 
+> - ### <a href='https://telzir-app.up.railway.app/'>CLIQUE AQUI</a> 
  ---
 <h2 align="center">Imagens da Aplicação</h2>
 
